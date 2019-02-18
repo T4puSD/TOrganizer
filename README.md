@@ -1,12 +1,12 @@
 # TOrganizer
 Organize your elaborate files in organized folder on one click (JAVA PROJECT). It uses java awt and swing packages to provide user friendly interface.
 
-# How To Run
-Download this directory and open cmd/termminal in this folder and type:
-  java TOrganizerGUI
-
 # Requirements
 You need to have JRE(Java Runtime Environment) installed to run this software.
+
+# How To Run
+Download this directory and open cmd/termminal in this folder and type:</br>
+  java TOrganizerGUI
 
 # Predefined Category
 The software create 4 predefined folder:
