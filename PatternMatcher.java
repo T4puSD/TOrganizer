@@ -7,7 +7,7 @@ import java.util.stream.*;
 //import static java.nio.file.StandardCopyOption.REPLACE_EXISTING;
 class PatternMatcher{
 	//private static String pattern= "(.*).(mp3|MP3|wav|WAV|wma|WMA|ogg|OGG|midi|MIDI|mp4|MP4|mkv|MKV|avi|AVI|flv|FLV|wmv|WMV|mov|MOV|ts|TS|zip|ZIP|7z|7Z|rar|RAR|txt|TXT|pdf|PDF)" ;
-	private static String patternDocuments = "(.*).(pdf|PDF|doc|DOC|docx|DOCX|txt|TXT)";
+	private static String patternDocuments = "(.*).(pdf|PDF|doc|DOC|docx|DOCX|txt|TXT|csv|CSV)";
 	private static String patternAudios = "(.*).(mp3|MP3|wav|WAV|wma|WMA|ogg|OGG|midi|MIDI)";
 	private static String patternVideos = "(.*).(mp4|MP4|mkv|MKV|avi|AVI|flv|FLV|wmv|WMV|mov|MOV|ts|TS)";//|ts|TS)";
 	private static String patternCompressedFiles = "(.*).(zip|ZIP|7z|7Z|rar|RAR|tar)";
