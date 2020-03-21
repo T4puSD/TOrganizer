@@ -2,7 +2,7 @@
 Organize your elaborate files in organized folder on one click (JAVA PROJECT). It uses java awt and swing packages to provide user friendly interface.
 
 # Requirements
-You need to have JDK(Java Development Kit) installed to run this software.
+You need to have JDK (Java Development Kit) version 8 or above installed to run this software.
 
 # How To Run
 Download this directory and extract. Open cmd/termminal in the extracted folder and type:</br>
