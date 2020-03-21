@@ -6,7 +6,9 @@ You need to have JRE(Java Runtime Environment) installed to run this software.
 
 # How To Run
 Download this directory and extract. Open cmd/termminal in the extracted folder and type:</br>
-  java TOrganizerGUI </br></br>
+ `javac TOrganizerGUI.java` this will compile java file and create class files.</br>
+ After compilation type `java TOrganizerGUI` to run the program.   
+
 Now copy and past the directory where you want to sort your files. Then press Submit button.</br> 
 Submit button will change to display status of the operation.</br>
 To perform another sorting action. Press Reset button and past another directory link.
