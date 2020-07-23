@@ -1,2 +1,5 @@
 # excluding class files
 *.class
+# excluding vscode settings
+.vscode
+
